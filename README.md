@@ -9,7 +9,7 @@ An application for taking and saving notes
 * JS
 
 ## Website
-[https://howacy1.github.io/password-generator/](https://pure-river-36401.herokuapp.com/)
+https://pure-river-36401.herokuapp.com
 
 ![Note Taker](notes.PNG)
 ## Contribution
